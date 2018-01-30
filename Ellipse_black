@@ -6,5 +6,6 @@ void setup()
 void draw()
 {
 fill(0);
-  ellipse(widht/2,height/2,50,50);
+  ellipse(width/2,height/2,50,50);
+                                          // Edited
 }
